@@ -12,7 +12,8 @@ he is then taken to the checkout page which has paypal, googlePay, and visa inte
 ![screen4](https://user-images.githubusercontent.com/104571428/215819534-6a928e7a-7e3d-470c-b996-05dcc93abbea.png)
 ![screen1](https://user-images.githubusercontent.com/104571428/215818743-a7b949b1-6079-44f7-8e7e-dffac7ebbf76.png)
 ![screen2](https://user-images.githubusercontent.com/104571428/215819475-c5b9f16b-367e-4f82-9465-7b5d53647f69.png)
-
+![2023-01-31 (8)](https://user-images.githubusercontent.com/104571428/215825634-7c328ffe-e335-4a64-8755-6932091cbe32.png)
+![2023-01-31 (5)](https://user-images.githubusercontent.com/104571428/215826510-f778a979-4d4a-43e2-8b68-4f884a14bfa2.png)
 
 
 # Getting Started with Create React App
