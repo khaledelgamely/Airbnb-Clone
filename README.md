@@ -7,10 +7,10 @@ upon clicking on a certain place the user is taken to the place detail page whic
 
 he is then taken to the checkout page which has paypal, googlePay, and visa integrated which allows the user to complete the payment
  
-<img src="../airbnb/src/assets/2023-01-31 (1).png">
-<img src="../airbnb/src/assets/2023-01-31 (3).png">
-<img src="../airbnb/src/assets/2023-01-31 (6).png">
-<img src="../airbnb/src/assets/2023-01-31 (7).png">
+<img src="../airbnb/src/assets/2023-01-31 (1).png" />
+<img src="../airbnb/src/assets/2023-01-31 (3).png" />
+<img src="../airbnb/src/assets/2023-01-31 (6).png" />
+<img src="../airbnb/src/assets/2023-01-31 (7).png" />
 
 
 
