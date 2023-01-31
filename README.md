@@ -7,10 +7,8 @@ upon clicking on a certain place the user is taken to the place detail page whic
 
 he is then taken to the checkout page which has paypal, googlePay, and visa integrated which allows the user to complete the payment
  
-<img src="./src/assets/screen1.png" alt ="" />
-<img src="./src/assets/screen2.png" alt ="" />
-<img src="./src/assets/screen3.png" alt ="" />
-<img src="./src/assets/screen4.png" alt ="" />
+ ## Some Images
+![screen1](https://user-images.githubusercontent.com/104571428/215818743-a7b949b1-6079-44f7-8e7e-dffac7ebbf76.png)
 
 
 
