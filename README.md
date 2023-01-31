@@ -9,7 +9,9 @@ he is then taken to the checkout page which has paypal, googlePay, and visa inte
  
  ## Some Images
 ![screen1](https://user-images.githubusercontent.com/104571428/215818743-a7b949b1-6079-44f7-8e7e-dffac7ebbf76.png)
-
+![screen2](https://user-images.githubusercontent.com/104571428/215819475-c5b9f16b-367e-4f82-9465-7b5d53647f69.png)
+![screen3](https://user-images.githubusercontent.com/104571428/215819496-031244ef-8448-40c5-ad52-e4bd1b59ce04.png)
+![screen4](https://user-images.githubusercontent.com/104571428/215819534-6a928e7a-7e3d-470c-b996-05dcc93abbea.png)
 
 
 
