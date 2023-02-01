@@ -1,0 +1,227 @@
+.navbar {
+    box-shadow: 0 4px 20px 0 rgb(0 0 0 / 10%), 0 1px 2px 0 rgb(0 0 0 / 6%);
+    height: 7rem;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+}
+
+.googleAuthBtn{
+    background-color: #fff !important;
+    width: 85px !important;
+    border-radius: 20px !important;
+}
+.navbarAnyHold{
+    box-shadow: 0 4px 20px 0 rgb(0 0 0 / 10%), 0 1px 2px 0 rgb(0 0 0 / 6%);
+    padding:10px 20px;
+    border-radius: 20px;
+}
+.searchIcon svg{
+    font-size: 21px;
+}
+.searchIcon{
+    background-color: #FF385C;
+    color: #fff;
+    border-radius: 50%;
+    padding: 6px;
+}
+.filterNavBar{
+    display: none;
+}
+.active{
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    z-index: 9;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    overflow-x: hidden;
+    background: rgb(0 0 0 / 0.4);
+}
+.menuHidden{
+    display: none;
+}
+
+@media screen and (max-width: 920px) {
+    .logo, .google-host{
+        display: none;
+    }
+    .navbarAnyHold {
+        width: 100%;
+        text-align: left;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .filterNavBar{
+        display: block;
+        font-size: 25px;
+        cursor: pointer;
+    }
+  }
+@media screen and (max-width: 600px) {
+    .navbarAnyHold div{
+        gap: 10px;
+    }
+    .filterNavBar{
+        display: block;
+        font-size: 25px;
+        cursor: pointer;
+    }
+  }
+/* Search Box */
+.searchBox{
+    width: 55%;
+    text-align: center;
+    border-radius: 20px;
+}
+.inputBox{
+    width: 100%;
+}
+.dropMenu {
+    background-color: #fff;
+    height: 90vh;
+    width: 60%;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 30px;
+
+}
+/* Tab Menu */
+
+.tabs {
+    display: flex !important;
+    flex-direction: column;
+    gap: 40px;
+}
+
+
+/* tabs Buttons */
+.tabList button{
+}
+.tabList{
+    display: flex;
+    justify-content: center!important;
+}
+.css-jt91d7[aria-selected=true], .css-jt91d7[data-selected] {
+    color: #fff !important;
+    background: #f20606 !important;
+}
+/* tabsPanels */
+
+.tabPanels{
+    display: flex;
+    justify-content: center;
+    
+}
+.tab {
+    box-shadow: 0 4px 20px 0 rgb(0 0 0 / 10%), 0 1px 2px 0 rgb(0 0 0 / 6%);
+    border-radius: 30px;
+}
+.tabPanel1{
+    max-width:60%;
+}
+.tabPanel3{
+    max-width: 100%;
+    padding: 30px;
+}
+.adultCriteriaHold-title h1{
+    font-size: 20px;
+}
+.fss{
+    cursor: pointer;
+    font-size: 30px;
+}
+.tabContent1Hold{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    justify-content: center;
+    align-items: center;
+}
+.tabContent1Hold p{
+    margin-top: 7px;
+    text-align: center;
+}
+.tabContent1Hold a {
+    width: 27%;
+}
+.tabContent1Hold img:hover {
+    border: 1px solid #000;
+}
+.tabContent1Hold img {
+    height: 30%;
+    border-radius: 10px;
+    transition: all 400ms ease !important;
+}
+.adultCriteriaHold {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid #eee;
+}
+.searchDisplayParent {
+    width: 100%;
+}
+.searchResultsHold{
+    width: 350px;
+}
+.locationIcon{
+background-color: #ddd;
+padding: 5px;
+font-size: 35px;
+border-radius: 10px;
+}
+@media screen and (max-width: 970px) {
+    .rdrDefinedRangesWrapper{
+        display: none;
+    }
+   
+  }
+@media screen and (max-width: 820px) {
+    .tabContent1Hold p{
+        font-size: 10px;
+    }
+    .tabList button{
+        font-size:10px;
+    }
+   
+}
+  
+@media screen and (max-width: 620px) {
+    .NavBarCalendar, .tabPanel2{
+        display: none;
+       }
+}
+@media screen and (max-width: 480px) {
+    .navbarAnyHold p {
+        font-size: 13px;
+    }
+    .adultCriteriaHold{
+        flex-direction: column;
+        padding-bottom: 10px;
+    }
+    .dropMenu {
+        gap: 5px;
+    }
+    .tabs {
+        gap: 10px;
+    }
+    .tabPanel3Hold{
+        padding: 0;
+    }
+    .searchIcon svg{
+
+        font-size: 18px;
+    }
+    .searchIcon{
+        padding: 2px;
+    }
+}
+@media screen and (max-width: 426px) {
+    .navbarAnyHold p {
+        font-size: 10px;
+    }
+}
